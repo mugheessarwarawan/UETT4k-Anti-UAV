@@ -4,6 +4,10 @@ The core idea is to create a purpose built dataset of drone images in 4K resolut
 We trained more than 12 varaints of YOLO, Yolov6v3 nano ,  Yolov6v3 small, Yolov6v3 Medium, Yolov6v3 large. 
 Also we trained high resolution network supporting resolution of 1280 x1280, thus using YOLOV6v3 N6, S6,M6,L6.
 
+total images = 33,601
+with train, test and validation sets having
+ 26599, 4000 and 3002 images,
 Samples images can be obtained by e mail me on mugheessarwarawan@yahoo.com
 or 
 16-uet-phd-ee-77@uettaxila.edu.pk
+
