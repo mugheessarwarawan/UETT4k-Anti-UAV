@@ -1,2 +1,9 @@
 # UETT4k-Anti-UAV
-This this link provides images used in our research of Anit UAV  in 4K
+This this link provides images used in our research of Anti UAV  in 4K. Data will be published as the research paper is published.
+The core idea is to create a purpose built dataset of drone images in 4K resolution , i.e. 3840x2160.
+We trained more than 12 varaints of YOLO, Yolov6v3 nano ,  Yolov6v3 small, Yolov6v3 Medium, Yolov6v3 large. 
+Also we trained high resolution network supporting resolution of 1280 x1280, thus using YOLOV6v3 N6, S6,M6,L6.
+
+Samples images can be obtained by e mail me on mugheessarwarawan@yahoo.com
+or 
+16-uet-phd-ee-77@uettaxila.edu.pk
