@@ -7,6 +7,7 @@ Also we trained high resolution network supporting resolution of 1280 x1280, thu
 total images = 33,601
 with train, test and validation sets having
  26599, 4000 and 3002 images,
+ Trainned Yolov6v3 n,s,m,l and n6,s6,m6 and l6 can were trained by me during my research of PhD.
 Samples images can be obtained by e mail me on mugheessarwarawan@yahoo.com
 or 
 16-uet-phd-ee-77@uettaxila.edu.pk
